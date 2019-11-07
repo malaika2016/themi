@@ -1,0 +1,98 @@
+header {
+  background-image: linear-gradient(to right, rgba(20, 91, 158, 0.534), #135490), url(../images/skyscraper-3.jpg);
+  max-width:1500px;
+  height:600px;
+  background-size:cover;
+  background-position: center;
+  
+}
+@media screen and (max-width:600px) {
+  
+}
+.text-box {
+  margin-bottom: 200px;
+  text-align: center;
+  padding-top:200px;
+  color:white;
+  
+}
+
+.heading-primay {
+ margin-right: 350px;
+ text-align: center;
+
+}
+.heading-primay-main {
+  display: block;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 35px;
+}
+
+.heading-primay-sub {
+  display: block;
+  font-size: 20px;
+  font-weight: 700px;
+  letter-spacing: 17.4px;
+}
+
+.topnav {
+    background-color:transparent;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color:transparent;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: transparent;
+  color: white;
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: right;
+}
+.section1{
+  height:50px;
+  max-width:1500px;
+  background-color:white;
+}
+.section2{
+  max-width:1500px;
+  height:300px;
+  background-color:whitesmoke;
+  text-align: center;
+  padding:80px;
+}
+
+.section4{
+  background-color: #00264d;
+  max-width:1500px;
+  height:300px;
+  padding:90px;
+  text-align: center;
+  color:white;
+
+}
+.section5{
+  background-color: whitesmoke;
+  height: 50px;
+  color:#00264d;
+  text-align:center;
+
+}
