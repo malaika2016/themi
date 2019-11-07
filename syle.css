@@ -6,14 +6,8 @@ header {
   background-position: center;
   
 }
-@media screen and (max-width:600px) {
 
-.section5{
-  text-align: center;
-  max-width:1500;
-}
 
-}
 .text-box {
   margin-bottom: 200px;
   text-align: center;
