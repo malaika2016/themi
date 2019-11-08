@@ -31,8 +31,8 @@ header {
 
 .heading-primay-sub {
   display: block;
-  font-size: 10px;
-  font-weight: 600px;
+  font-size: 20px;
+  font-weight: 700px;
   letter-spacing: 17.4px;
 }
 
@@ -94,6 +94,7 @@ header {
   height: 60px;
   color:#00264d;
   text-align:center;
+  font-size:30px;
   
 
 }
